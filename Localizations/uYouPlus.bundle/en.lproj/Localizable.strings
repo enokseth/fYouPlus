@@ -31,7 +31,7 @@
 "OLED_KEYBOARD_DESC" = "";
 
 // Video player options
-"VIDEO_PLAYER_OPTIONS" = "⏯️ Video player options";
+"VIDEO_PLAYER_OPTIONS" = "📽️Video player📽️ options";
 
 "SLIDE_TO_SEEK" = "Enable Slide to seek";
 "SLIDE_TO_SEEK_DESC" = "Bring back the Slide to seek gesture.";
@@ -96,7 +96,7 @@
 // Shorts controls overlay options
 "SHORTS_CONTROLS_OVERLAY_OPTIONS" = "💥 Shorts controls overlay options";
 
-"HIDE_SUPER_THANKS" = "Hide \"Buy Super Thanks\" banner";
+"HIDE_SUPER_THANKS" = "Hide \"Buy Super Thanks\" banner🫡";
 "HIDE_SUPER_THANKS_DESC" = "";
 
 "HIDE_SUBCRIPTIONS" = "Hide subscriptions button";
@@ -108,7 +108,7 @@
 // Miscellaneous
 "MISCELLANEOUS" = "🔎 Miscellaneous";
 
-"HIDE_UYOU" = "Hide uYou tab";
+"HIDE_UYOU" = "Hide xYou tab";
 "HIDE_ISPONSORBLOCK" = "Hides iSponsorBlock button";
 
 "CAST_CONFIRM" = "YTCastConfirm";
